@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/****************************************************************
+*
+*   Practice creating and calling different types of functions
+*
+*****************************************************************/
+
