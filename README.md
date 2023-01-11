@@ -8,4 +8,4 @@ Practicing creating and calling functions in C#
 4. Non static function that returns the previous integer squared
 5. Non static function that displays anything else
 
-Functions can be found in the [Program.cs]() file
+Functions can be found in the [Program.cs](https://github.com/Emoral90/Csh_functions/blob/main/C%23_prep5_functions/Program.cs) file
