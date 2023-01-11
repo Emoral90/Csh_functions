@@ -1,0 +1,15 @@
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_functions\C#_prep5_functions\bin\Debug\net6.0\C#_prep5_functions.exe
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_functions\C#_prep5_functions\bin\Debug\net6.0\C#_prep5_functions.deps.json
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_functions\C#_prep5_functions\bin\Debug\net6.0\C#_prep5_functions.runtimeconfig.json
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_functions\C#_prep5_functions\bin\Debug\net6.0\C#_prep5_functions.dll
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_functions\C#_prep5_functions\bin\Debug\net6.0\ref\C#_prep5_functions.dll
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_functions\C#_prep5_functions\bin\Debug\net6.0\C#_prep5_functions.pdb
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_functions\C#_prep5_functions\obj\Debug\net6.0\C#_prep5_functions.csproj.AssemblyReference.cache
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_functions\C#_prep5_functions\obj\Debug\net6.0\C#_prep5_functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_functions\C#_prep5_functions\obj\Debug\net6.0\C#_prep5_functions.AssemblyInfoInputs.cache
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_functions\C#_prep5_functions\obj\Debug\net6.0\C#_prep5_functions.AssemblyInfo.cs
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_functions\C#_prep5_functions\obj\Debug\net6.0\C#_prep5_functions.csproj.CoreCompileInputs.cache
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_functions\C#_prep5_functions\obj\Debug\net6.0\C#_prep5_functions.dll
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_functions\C#_prep5_functions\obj\Debug\net6.0\ref\C#_prep5_functions.dll
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_functions\C#_prep5_functions\obj\Debug\net6.0\C#_prep5_functions.pdb
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_functions\C#_prep5_functions\obj\Debug\net6.0\C#_prep5_functions.genruntimeconfig.cache
