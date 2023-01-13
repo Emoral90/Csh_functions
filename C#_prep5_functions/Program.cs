@@ -14,8 +14,15 @@ class myClass{
         Console.WriteLine();
         Console.WriteLine("===================================");
 
+        // Static functions are called locally with just the class name and the method
         myClass.WelcomeMessage();
-        myClass.PromptUsername();
+        string userName = myClass.PromptUsername();
+        int userNum = myClass.PromptUserNum();
+
+        // Instantiated a new class object and saved it to the variable MC
+        myClass MC = new myClass();
+        int squaredNum = MC.SquareNum(userNum);
+        MC.DisplayRes(squaredNum, userName);
         
 
         Console.WriteLine("===================================");
@@ -28,25 +35,30 @@ class myClass{
     Console.WriteLine("Welcome to My New Little Repository!");
     }
 
-    static void PromptUsername(){
+    static string PromptUsername(){
         Console.WriteLine("Enter your username");
         string userName = Console.ReadLine();
-        Console.WriteLine($"Hello {userName}");
+        // Console.WriteLine($"Hello {userName}");
+        return userName;
     }
 
-    static void PromptUserNum(){
-        Console.WriteLine("Enter your ID number");
-        string UserNum = Console.ReadLine();
-        Console.WriteLine($"ID number; {UserNum}");
+    static int PromptUserNum(){
+        Console.WriteLine("Enter your favorite number");
+        int UserNum = Convert.ToInt32(Console.ReadLine());
+        // Console.WriteLine($"Favorite number; {UserNum}");
+        return UserNum;
     }
 
     // Last 2 functions will not be static
     // Or will have to be called by creating a new instance of the myClass object
-    int SquareNum(){
-        
+    int SquareNum(int num){
+        int square = num * num;
+        return square;
     }
 
-    string DisplayRes(){
-
+    void DisplayRes(int num, string name){
+        // string num_str = num.ToString();
+        Console.WriteLine($"{name}, your favorite number squared is {num}");
+        // return result;
     }
 }
